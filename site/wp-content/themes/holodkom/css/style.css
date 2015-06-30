@@ -520,6 +520,9 @@ footer {
 .main_nav ul li:hover {
 	background: #3b54a4 url(../img/split.jpg) right center no-repeat;
 }
+.top_menu .active {
+	background: #3b54a4 url(../img/split.jpg) right center no-repeat;
+}
 
 .main_nav ul li:first-child a {
 	padding-left: 10px;
@@ -553,7 +556,17 @@ footer {
 	overflow: hidden;
 }
 .right_block .breadcrumb li {
-	float: left;
+	display: inline-block;
+	position: relative;
+	margin: 0 10px 0 0;
+}
+.right_block .breadcrumb li:after {
+	content: "/";
+	position: absolute;
+	right: -10px;
+}
+.right_block li:last-child:after {
+	content:'';
 }
 .right_block .breadcrumb li a {
 	color: #3b53a3;
@@ -571,7 +584,7 @@ footer {
 	font-family: PFDinTextCondProLight;
 	font-size: 18px;
 }
-.right_block .breadcrumb li p {
+.right_block .breadcrumb li span {
 	color: #182650;
 	font-family: PFDinTextCondProLight;
 	font-size: 18px;

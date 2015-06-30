@@ -47,7 +47,7 @@
 				wp_reset_postdata();
 			?>
 		</div>
-		<a href="" class="arhive_news">Архив новостей</a>
+		<a href="/?p=112" class="arhive_news">Архив новостей</a>
 
 		<a href='/?p=109'>
 			<div class="mini_slider">

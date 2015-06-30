@@ -229,8 +229,8 @@
 		$show_home_link = 1; // 1 - показывать ссылку "Главная", 0 - не показывать
 		$show_title = 1; // 1 - показывать подсказку (title) для ссылок, 0 - не показывать
 		$delimiter = ''; // разделить между "крошками"
-		$before = '<li><p>'; // тег перед текущей "крошкой"
-		$after = '</p></li>'; // тег после текущей "крошки"
+		$before = '<li><span>'; // тег перед текущей "крошкой"
+		$after = '</span></li>'; // тег после текущей "крошки"
 		/* === КОНЕЦ ОПЦИЙ === */
 
 		global $post;
@@ -244,13 +244,13 @@
 
 		if (is_home() || is_front_page()) {
 
-			if ($show_on_home == 1) echo '<ul class="breadcrumb"><li><a href="' . $home_link . '">' . $text['home'] . '</a><span>/</span></li></ul>';
+			if ($show_on_home == 1) echo '<ul class="breadcrumb"><li><a href="' . $home_link . '">' . $text['home'] . '</a></ul>';
 
 		} else {
 
 			echo '<ul class="breadcrumb" xmlns:v="http://rdf.data-vocabulary.org/#">';
 			if ($show_home_link == 1) {
-				echo '<li><a href="' . $home_link . '" rel="v:url" property="v:title">' . $text['home'] . '</a><span>/</span></li>';
+				echo '<li><a href="' . $home_link . '" rel="v:url" property="v:title">' . $text['home'] . '</a></li>';
 				if ($frontpage_id == 0 || $parent_id != $frontpage_id) echo $delimiter;
 			}
 
