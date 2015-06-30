@@ -31,7 +31,8 @@
 		<div class="owl_slider">
 			<?php
 				$slides_args = array(
-					'post_type' => 'slider'
+					'post_type' => 'slider',
+					'posts_per_page' => 40
 				);
 				$slide = new WP_Query($slides_args);
 				while($slide->have_posts()):$slide->the_post();
@@ -70,12 +71,29 @@
 		<?php get_sidebar();?>
 		<div class="right_block">
 			<div class="catalog">
-				<div class="item_cat"><div class="img_cat"><a href="#"><img src="img/imgCat1.jpg"  alt=""></a></div><span><a href="#">Холодильное оборудование</a></span></div>
-				<div class="item_cat"><div class="img_cat"><a href="#"><img src="img/imgCat2.jpg" alt=""></a></div><span><a href="#">Рефрижераторные контейнеры</a></span></div>
-				<div class="item_cat"><div class="img_cat"><a href="#"><img src="img/imgCat3.jpg"  alt=""></a></div><span><a href="#">Технологии хладоснабжения</a></span></div>
-				<div class="item_cat"><div class="img_cat"><a href="#"><img src="img/imgCat4.jpg"  alt=""></a></div><span><a href="#">Льдогенераторы</a></span></div>
-				<div class="item_cat"><div class="img_cat"><a href="#"><img src="img/imgCat5.jpg"  alt=""></a></div><span><a href="#">Холодильные склады</a></span></div>
-				<div class="item_cat"><div class="img_cat"><a href="#"><img src="img/imgCat6.jpg"  alt=""></a></div><span><a href="#">Сервисный центр</a></span></div>
+				<?php
+					$args       = array(
+						'parent'     => 0,
+						'hide_empty' => 0,
+						'exclude'    => '',
+						'number'     => '0',
+						'taxonomy'   => 'type',
+						'pad_counts' => true
+					);
+					$categories = get_categories( $args );
+					$images_raw           = get_option( 'taxonomy_image_plugin' );
+					$term_taxonomy_string = '';
+					foreach ( $categories as $category ) {
+						$term_taxonomy_id    = $category->term_taxonomy_id;
+						$term_taxonomy_name  = $category->name;
+						$term_taxonomy_image = wp_get_attachment_image_src( $images_raw[ $term_taxonomy_id ], 'full' );
+						$term_taxonomy_link  = get_term_link( (int) $term_taxonomy_id, 'type' );
+						$term_taxonomy_string .= '<div class="item_cat"><div class="img_cat"> <a href="' . $term_taxonomy_link . '">
+																	<img src="' . $term_taxonomy_image[0] . '"/></a></div><span><a href = "' .$term_taxonomy_link. '">'. $term_taxonomy_name .'</a></span>
+														</div>';
+					}
+					echo $term_taxonomy_string;
+				?>
 			</div>
 			<div class="content">
 				<?php

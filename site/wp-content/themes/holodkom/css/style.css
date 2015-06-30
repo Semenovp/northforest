@@ -979,3 +979,36 @@ footer {
 }
 
 /* /modal window */
+/*table*/
+table{
+	width: 100%;
+	margin-bottom: 27px;
+}
+table tr:nth-child(odd){
+	background-color: #efefef;
+}
+table tr td{
+	color: #000000;
+	font-size: 16px;
+	font-weight: 400;
+	text-align: left;
+	height: 49px;
+	padding: 15px 10px 0 10px;
+}
+table tr td:first-child{
+	padding-left: 10px;
+}
+
+table tr:first-child td:last-child{
+	color: #000;
+}
+table tr td:last-child{
+	color: #ee2124;
+	font-weight: 500;
+}
+table tr:nth-child(1) td{
+	height: 49px;
+	padding-top: 10px;
+	line-height: 1;
+}
+/*table*/

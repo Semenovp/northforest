@@ -1,24 +1,7 @@
 <div class="left_block">
 	<div class="lb_item">
 		<div class="h2">Каталог</div>
-		<ul>
-			<?php
-				$args       = array(
-				'parent'     => '',
-				'hide_empty' => 0,
-				'exclude'    => '',
-				'number'     => '0',
-				'taxonomy'   => 'type',
-				'pad_counts' => true
-				);
-				$categories = get_categories( $args );
-				foreach($categories as $category) {
-			?>
-					<li><span class="cat_img cat_item1"></span><a href="<?php echo get_term_link( (int) $category->term_id, 'type' );?>"><?php echo $category->name;?></a></li>
-			<?php
-				}
-			?>
-		</ul>
+		<?php wp_nav_menu(array('theme_location' => 'catalog', 'menu_class' => false));?>
 	</div>
 	<div class="lb_item ">
 		<div class="h2 progect_click">Наши проекты</div>

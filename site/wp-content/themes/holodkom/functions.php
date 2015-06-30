@@ -157,7 +157,7 @@
 	function register_theme_menus() {
 		register_nav_menus( array(
 			'header-main' => 'main',
-			'aside'       => 'aside',
+			'catalog'       => 'catalog',
 			'footer'       => 'footer'
 		) );
 	}
@@ -223,6 +223,7 @@
 		$text['tag'] = 'Записи с тегом "%s"'; // текст для страницы тега
 		$text['author'] = 'Статьи автора %s'; // текст для страницы автора
 		$text['404'] = 'Ошибка 404'; // текст для страницы 404
+		$text['tax'] = 'Категория "%s"'; //тест для пользовательких таксономий
 
 		$show_current = 1; // 1 - показывать название текущей статьи/страницы/рубрики, 0 - не показывать
 		$show_on_home = 0; // 1 - показывать "хлебные крошки" на главной странице, 0 - не показывать
@@ -266,7 +267,23 @@
 				}
 				if ($show_current == 1) echo $before . sprintf($text['category'], single_cat_title('', false)) . $after;
 
-			} elseif ( is_search() ) {
+
+			}
+			if ( is_tax() ) {
+				$this_cat = get_category(get_query_var('cat'), false);
+				if ($this_cat->parent != 0) {
+					$cats = get_category_parents($this_cat->parent, TRUE, $delimiter);
+					if ($show_current == 0) $cats = preg_replace("#^(.+)$delimiter$#", "$1", $cats);
+					$cats = str_replace('<a', $link_before . '<a' . $link_attr, $cats);
+					$cats = str_replace('</a>', '</a>' . $link_after, $cats);
+					if ($show_title == 0) $cats = preg_replace('/ title="(.*?)"/', '', $cats);
+					echo $cats;
+				}
+				if ($show_current == 1) echo $before . sprintf($text['tax'], single_cat_title('', false)) . $after;
+
+
+			}
+			elseif ( is_search() ) {
 				echo $before . sprintf($text['search'], get_search_query()) . $after;
 
 			} elseif ( is_day() ) {
@@ -364,3 +381,6 @@
 
 		}
 	} // end breadcrumbs()
+//фильрты категорий
+	remove_filter('pre_term_description', 'wp_filter_kses');
+	remove_filter('pre_term_description', 'wp_kses_data');

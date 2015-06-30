@@ -433,6 +433,36 @@
 	header .span1 .header_info {
 		width: 100%;
 	}
+	/*table responsitiv*/
+	table{
+		display: block;
+		position: relative;
+		width: 100%;
+	}
+	table tr:first-child{
+		display: block;
+		float: left;
+	}
+	table tr:first-child td{
+		display: block;
+	}
+	table tbody {
+		display: block;
+		width: auto;
+		position: relative;
+		overflow-x: auto;
+		white-space: nowrap;
+	}
+	table tbody tr{
+		display: inline-block;
+		vertical-align: top;
+	}
+	table tr td{
+		display: block;
+	}
+
+
+	/*table responsitiv*/
 
 	/************ табл характеристик ******************/
 	.char_row1 {
