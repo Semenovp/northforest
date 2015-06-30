@@ -2,390 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ec32fc1-0ed1-4d1d-b9bc-4a5fbdb3fba8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/wp-content/themes/holodkom/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/wp-content/themes/holodkom/front-page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/wp-content/themes/holodkom/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/wp-content/themes/holodkom/page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/wp-content/themes/holodkom/sidebar.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/README.mdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/changelog.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/css/base.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/css/font.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/css/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/css/resets.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/css/responsive.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/css/theme.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/css/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/basic-carousel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/carousel-min-max.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/css/demo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/dynamic-carousel-min-max.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/fonts/webfonts/geo-medium/eot/1110FC_0.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/fonts/webfonts/geo-medium/svg/1110FC_0.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/fonts/webfonts/geo-medium/svg/svg_test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/fonts/webfonts/geo-medium/ttf/1110FC_0.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/fonts/webfonts/geo-medium/woff/1110FC_0.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/fonts/webfonts/geo-regular/eot/11014B_0.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/fonts/webfonts/geo-regular/svg/11014B_0.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/fonts/webfonts/geo-regular/svg/svg_test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/fonts/webfonts/geo-regular/ttf/11014B_0.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/fonts/webfonts/geo-regular/woff/11014B_0.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/fonts/webfonts/geo-semibold/eot/style_169898.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/fonts/webfonts/geo-semibold/svg/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/fonts/webfonts/geo-semibold/svg/style_169898.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/fonts/webfonts/geo-semibold/ttf/style_169898.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/fonts/webfonts/geo-semibold/woff/style_169898.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/images/kitchen_adventurer_caramel.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/images/kitchen_adventurer_cheesecake_brownie.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/images/kitchen_adventurer_donut.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/images/kitchen_adventurer_lemon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/js/demo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/js/froogaloop.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/js/jquery.easing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/js/jquery.fitvid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/js/jquery.mousewheel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/js/modernizr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/js/shBrushCss.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/js/shBrushJScript.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/js/shBrushXml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/js/shCore.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/thumbnail-controlnav.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/thumbnail-slider.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/video-wistia.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/demo/video.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/flexslider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/flexslider.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/fonts/flexslider-icon.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/fonts/flexslider-icon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/fonts/flexslider-icon.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/fonts/flexslider-icon.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/images/bg_play_pause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/jquery.flexslider-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/FlexSlider/jquery.flexslider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/dist/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/dist/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/dist/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/dist/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/dist/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/dist/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/dist/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/dist/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/dist/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/grunt/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/grunt/bs-commonjs-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/grunt/bs-glyphicons-data-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/grunt/bs-lessdoc-parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/grunt/bs-raw-files-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/grunt/configBridge.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/grunt/sauce_browsers.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/js/.jscsrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/js/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/js/affix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/js/alert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/js/button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/js/carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/js/collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/js/dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/js/modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/js/popover.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/js/scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/js/tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/js/tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/js/transition.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/.csscomb.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/.csslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/badges.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/button-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/carousel.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/close.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/code.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/component-animations.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/glyphicons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/input-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/jumbotron.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/labels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/media.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/background-variant.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/border-radius.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/center-block.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/clearfix.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/gradients.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/grid-framework.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/hide-text.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/image.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/labels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/nav-divider.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/nav-vertical-align.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/opacity.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/panels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/progress-bar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/reset-filter.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/resize.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/responsive-visibility.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/size.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/tab-focus.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/table-row.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/text-emphasis.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/text-overflow.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/mixins/vendor-prefixes.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/modals.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/navs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/normalize.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/pager.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/panels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/popovers.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/print.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/progress-bars.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/responsive-embed.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/responsive-utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/scaffolding.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/tables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/theme.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/thumbnails.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/type.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/less/wells.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/bootstrap/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/MIT-LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/dist/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/dist/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/dist/jquery.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/ajax/jsonp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/ajax/load.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/ajax/parseJSON.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/ajax/parseXML.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/ajax/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/ajax/var/nonce.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/ajax/var/rquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/ajax/xhr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/attributes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/attributes/attr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/attributes/classes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/attributes/prop.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/attributes/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/attributes/val.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/callbacks.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/core/access.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/core/init.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/core/parseHTML.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/core/ready.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/core/var/rsingleTag.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/css.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/css/addGetHookIf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/css/curCSS.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/css/defaultDisplay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/css/hiddenVisibleSelectors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/css/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/css/swap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/css/var/cssExpand.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/css/var/isHidden.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/css/var/rmargin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/css/var/rnumnonpx.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/data/accepts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/data/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/deferred.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/deprecated.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/dimensions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/effects.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/effects/Tween.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/effects/animatedSelector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/effects/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/event.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/event/alias.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/event/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/exports/amd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/exports/global.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/intro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/manipulation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/manipulation/_evalUrl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/manipulation/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/manipulation/var/rcheckableType.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/offset.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/outro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/queue.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/queue/delay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/selector-sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/selector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/serialize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/sizzle/dist/sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/sizzle/dist/sizzle.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/sizzle/dist/sizzle.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/traversing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/traversing/findFilter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/traversing/var/rneedsContext.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/var/class2type.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/var/concat.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/var/deletedIds.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/var/hasOwn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/var/indexOf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/var/pnum.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/var/push.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/var/rnotwhite.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/var/slice.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/var/strundefined.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/var/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/var/toString.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/bower_components/jquery/src/wrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/markup/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-58-150x150.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-58-150x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-58-204x122.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-58-204x122.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-58-300x295.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-58-300x295.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-58.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-58.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-59-150x150.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-59-150x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-59-204x122.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-59-204x122.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-59-300x295.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-59-300x295.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-59.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-59.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-60-150x150.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-60-150x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-60-204x122.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-60-204x122.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-60-300x295.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-60-300x295.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-60.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-60.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-61-150x150.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-61-150x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-61-204x122.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-61-204x122.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-61-300x295.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-61-300x295.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-61.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-61.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-62-150x150.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-62-150x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-62-204x122.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-62-204x122.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-62-300x295.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-62-300x295.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-62.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-62.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-63-150x150.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-63-150x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-63-204x122.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-63-204x122.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-63-300x295.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-63-300x295.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-63.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-63.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-64-150x150.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-64-150x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-64-204x122.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-64-204x122.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-64-300x295.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-64-300x295.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-64.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-64.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-65-150x150.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-65-150x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-65-204x122.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-65-204x122.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-65-300x295.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-65-300x295.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-65.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-65.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-66-150x150.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-66-150x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-66-204x122.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-66-204x122.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-66-300x296.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-66-300x296.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-66.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-66.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-67-150x150.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-67-150x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-67-204x122.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-67-204x122.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-67-300x295.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-67-300x295.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-67.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-67.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-68-150x150.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-68-150x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-68-204x122.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-68-204x122.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-68-300x295.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-68-300x295.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-68.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-68.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-69-150x150.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-69-150x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-69-204x122.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-69-204x122.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-69-300x295.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-69-300x295.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-69.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-69.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-70-150x150.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-70-150x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-70-204x122.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-70-204x122.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-70-300x295.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-70-300x295.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-70.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-70.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-71-150x150.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-71-150x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-71-204x122.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-71-204x122.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-71-300x295.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-71-300x295.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-71.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-71.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-72-150x150.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-72-150x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-72-204x122.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-72-204x122.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-72-300x295.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-72-300x295.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-72.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-72.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-73-150x150.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-73-150x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-73-204x122.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-73-204x122.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-73-300x295.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-73-300x295.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-73.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-73.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-74-150x150.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-74-150x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-74-204x122.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-74-204x122.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-74-300x295.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-74-300x295.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-74.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-74.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-75-150x150.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-75-150x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-75-204x122.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-75-204x122.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-75-300x295.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-75-300x295.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-75.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/Layer-75.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/img/Thumbs.db" afterPath="$PROJECT_DIR$/markup/img/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/img/a345ac6ee31632760069ceace3313e68.jpg" afterPath="$PROJECT_DIR$/markup/img/a345ac6ee31632760069ceace3313e68.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/img/back-back.jpg" afterPath="$PROJECT_DIR$/markup/img/back-back.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/img/back-back.png" afterPath="$PROJECT_DIR$/markup/img/back-back.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/img/back-content.jpg" afterPath="$PROJECT_DIR$/markup/img/back-content.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/img/back-content1.jpg" afterPath="$PROJECT_DIR$/markup/img/back-content1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/img/back-head.png" afterPath="$PROJECT_DIR$/markup/img/back-head.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/img/back-header.jpg" afterPath="$PROJECT_DIR$/markup/img/back-header.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/img/back-header1.jpg" afterPath="$PROJECT_DIR$/markup/img/back-header1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/img/back-menu.jpg" afterPath="$PROJECT_DIR$/markup/img/back-menu.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/img/back-phone-content.jpg" afterPath="$PROJECT_DIR$/markup/img/back-phone-content.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/img/back.png" afterPath="$PROJECT_DIR$/markup/img/back.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/img/counter.jpg" afterPath="$PROJECT_DIR$/markup/img/counter.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/img/depositphotos_1066376-House-log-wall.jpg" afterPath="$PROJECT_DIR$/markup/img/depositphotos_1066376-House-log-wall.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/img/icon-phone.png" afterPath="$PROJECT_DIR$/markup/img/icon-phone.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/img/image1.jpg" afterPath="$PROJECT_DIR$/markup/img/image1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/img/logo.png" afterPath="$PROJECT_DIR$/markup/img/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/partner1.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/partner1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/partner2.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/partner2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/partner3.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/partner3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/partner4.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/partner4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/partner5.png" afterPath="$PROJECT_DIR$/site/wp-content/uploads/2015/06/partner5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/img/textures-2528932-1600x1053.jpg" afterPath="$PROJECT_DIR$/markup/img/textures-2528932-1600x1053.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/img/watermark.php.jpg" afterPath="$PROJECT_DIR$/markup/img/watermark.php.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/.htaccess" afterPath="$PROJECT_DIR$/site/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/css/bootstrap.css" afterPath="$PROJECT_DIR$/markup/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/themes/holodkom/functions.php" afterPath="$PROJECT_DIR$/site/wp-content/themes/holodkom/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/themes/holodkom/index.php" afterPath="$PROJECT_DIR$/site/wp-content/themes/holodkom/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/northforest.iml" afterPath="$PROJECT_DIR$/.idea/northforest.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/js/script.js" afterPath="$PROJECT_DIR$/markup/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markup/css/style.css" afterPath="$PROJECT_DIR$/markup/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/themes/holodkom/style.css" afterPath="$PROJECT_DIR$/site/wp-content/themes/holodkom/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/wp-content/themes/holodkom/templates/contact-page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/themes/holodkom/css/style.css" afterPath="$PROJECT_DIR$/site/wp-content/themes/holodkom/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-config.php" afterPath="$PROJECT_DIR$/site/wp-config.php" />
     </list>
     <ignored path="northforest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -410,26 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.259259" vertical-offset="2900" max-vertical-offset="3474">
-              <caret line="172" column="32" selection-start-line="172" selection-start-column="32" selection-end-line="172" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.333334" vertical-offset="0" max-vertical-offset="918">
-              <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="front-page.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/front-page.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -440,11 +39,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.097561" vertical-offset="0" max-vertical-offset="1260">
-              <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+            <state vertical-scroll-proportion="-17.333334" vertical-offset="594" max-vertical-offset="1260">
+              <caret line="59" column="26" selection-start-line="16" selection-start-column="21" selection-end-line="59" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/markup/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.592592" vertical-offset="4394" max-vertical-offset="4968">
+              <caret line="257" column="20" selection-start-line="257" selection-start-column="20" selection-end-line="257" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -493,18 +102,28 @@
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/markup/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.0" vertical-offset="162" max-vertical-offset="3942">
-              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+            <state vertical-scroll-proportion="-4.6666665" vertical-offset="1728" max-vertical-offset="3942">
+              <caret line="103" column="29" selection-start-line="0" selection-start-column="0" selection-end-line="213" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inner-page.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/markup/inner-page.html">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.0" vertical-offset="2916" max-vertical-offset="5112">
-              <caret line="159" column="45" selection-start-line="159" selection-start-column="45" selection-end-line="159" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.6888519" vertical-offset="14580" max-vertical-offset="17532">
+              <caret line="833" column="11" selection-start-line="833" selection-start-column="11" selection-end-line="833" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact-page.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/templates/contact-page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.7407408" vertical-offset="313" max-vertical-offset="1386">
+              <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -538,6 +157,8 @@
         <option value="$PROJECT_DIR$/site/wp-content/themes/holodkom/header.php" />
         <option value="$PROJECT_DIR$/site/wp-content/themes/holodkom/functions.php" />
         <option value="$PROJECT_DIR$/site/wp-content/themes/holodkom/page.php" />
+        <option value="$PROJECT_DIR$/site/wp-content/themes/holodkom/templates/contact-page.php" />
+        <option value="$PROJECT_DIR$/site/wp-content/themes/holodkom/css/style.css" />
       </list>
     </option>
   </component>
@@ -683,6 +304,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="holodkom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="northforest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="northforest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="markup" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -741,12 +392,20 @@
       <option name="number" value="Default" />
       <updated>1432905784733</updated>
     </task>
+    <task id="LOCAL-00001" summary="front,page">
+      <created>1435658803698</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1435658803698</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -782,9 +441,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="front,page" />
+    <option name="LAST_COMMIT_MESSAGE" value="front,page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -847,14 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/markup/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="4968">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-19.333334" vertical-offset="0" max-vertical-offset="918">
@@ -887,14 +542,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/markup/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.0" vertical-offset="162" max-vertical-offset="3942">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/markup/catalogue.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.3333334" vertical-offset="1836" max-vertical-offset="5220">
@@ -911,14 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.666666" vertical-offset="3672" max-vertical-offset="6264">
-          <caret line="229" column="125" selection-start-line="229" selection-start-column="125" selection-end-line="229" selection-end-column="125" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/front-page.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.0" vertical-offset="1890" max-vertical-offset="2520">
@@ -927,10 +566,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/markup/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.592592" vertical-offset="4394" max-vertical-offset="4968">
+          <caret line="257" column="20" selection-start-line="257" selection-start-column="20" selection-end-line="257" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markup/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.6666665" vertical-offset="1728" max-vertical-offset="3942">
+          <caret line="103" column="29" selection-start-line="0" selection-start-column="0" selection-end-line="213" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.666666" vertical-offset="3672" max-vertical-offset="6264">
+          <caret line="229" column="125" selection-start-line="229" selection-start-column="125" selection-end-line="229" selection-end-column="125" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.097561" vertical-offset="0" max-vertical-offset="1260">
-          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+        <state vertical-scroll-proportion="-17.333334" vertical-offset="594" max-vertical-offset="1260">
+          <caret line="59" column="26" selection-start-line="16" selection-start-column="21" selection-end-line="59" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/templates/contact-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.7407408" vertical-offset="313" max-vertical-offset="1386">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6888519" vertical-offset="14580" max-vertical-offset="17532">
+          <caret line="833" column="11" selection-start-line="833" selection-start-column="11" selection-end-line="833" selection-end-column="11" />
           <folding />
         </state>
       </provider>

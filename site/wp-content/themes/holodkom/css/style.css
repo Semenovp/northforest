@@ -837,7 +837,7 @@ footer {
 .right_block .contact .content_right_block form label sub {
 	color: #ef3e40;
 }
-.right_block .contact .content_right_block form input[type="text"], .right_block .contact .content_right_block form textarea {
+.right_block .contact .content_right_block form input[type="text"], .right_block .contact .content_right_block form textarea,.right_block .contact .content_right_block form input[type="email"] {
 	display: block;
 	margin-bottom: 20px;
 	border: 1px solid #b2b2b2;
