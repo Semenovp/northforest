@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ec32fc1-0ed1-4d1d-b9bc-4a5fbdb3fba8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/themes/holodkom/functions.php" afterPath="$PROJECT_DIR$/site/wp-content/themes/holodkom/functions.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/themes/holodkom/sidebar.php" afterPath="$PROJECT_DIR$/site/wp-content/themes/holodkom/sidebar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/wp-content/themes/holodkom/css/style.css" afterPath="$PROJECT_DIR$/site/wp-content/themes/holodkom/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="northforest.iws" />
@@ -33,7 +31,7 @@
       <file leaf-file-name="front-page.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/front-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.666667" vertical-offset="0" max-vertical-offset="2520">
+            <state vertical-scroll-proportion="26.0" vertical-offset="936" max-vertical-offset="2520">
               <caret line="13" column="54" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="54" />
               <folding />
             </state>
@@ -43,7 +41,7 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/markup/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.259259" vertical-offset="2126" max-vertical-offset="4968">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2126" max-vertical-offset="4968">
               <caret line="135" column="25" selection-start-line="129" selection-start-column="19" selection-end-line="135" selection-end-column="25" />
               <folding />
             </state>
@@ -53,8 +51,8 @@
       <file leaf-file-name="single-projects.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/single-projects.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="1242">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            <state vertical-scroll-proportion="-3.3333333" vertical-offset="216" max-vertical-offset="1242">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -73,7 +71,7 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.5925927" vertical-offset="2873" max-vertical-offset="3474">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2873" max-vertical-offset="3474">
               <caret line="171" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="187" selection-end-column="21" />
               <folding />
             </state>
@@ -83,8 +81,8 @@
       <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.9259257" vertical-offset="4016" max-vertical-offset="6678">
-              <caret line="232" column="25" selection-start-line="232" selection-start-column="25" selection-end-line="232" selection-end-column="25" />
+            <state vertical-scroll-proportion="-92.59259" vertical-offset="1802" max-vertical-offset="6678">
+              <caret line="239" column="48" selection-start-line="239" selection-start-column="48" selection-end-line="239" selection-end-column="48" />
               <folding>
                 <marker date="1435666440456" expanded="true" signature="4352:4364" placeholder="..." />
                 <marker date="1435666440456" expanded="true" signature="4687:4699" placeholder="..." />
@@ -98,8 +96,8 @@
       <file leaf-file-name="sidebar.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/sidebar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5093697" vertical-offset="565" max-vertical-offset="1152">
-              <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+            <state vertical-scroll-proportion="-0.34843206" vertical-offset="596" max-vertical-offset="1332">
+              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -118,7 +116,7 @@
       <file leaf-file-name="catalogue.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/markup/catalogue.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6666667" vertical-offset="1836" max-vertical-offset="5220">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1836" max-vertical-offset="5220">
               <caret line="106" column="85" selection-start-line="106" selection-start-column="85" selection-end-line="106" selection-end-column="85" />
               <folding />
             </state>
@@ -128,7 +126,7 @@
       <file leaf-file-name="contact-page.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/templates/contact-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.7407408" vertical-offset="97" max-vertical-offset="1386">
+            <state vertical-scroll-proportion="0.0" vertical-offset="97" max-vertical-offset="1386">
               <caret line="11" column="42" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="42" />
               <folding />
             </state>
@@ -175,9 +173,9 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="-4" />
+    <option name="y" value="24" />
     <option name="width" value="1855" />
-    <option name="height" value="1084" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -202,7 +200,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -347,6 +344,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -378,9 +376,6 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="d06029e7-3b9e-40ee-9ec9-2525f9b71931" server_name="north">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -389,9 +384,15 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="d06029e7-3b9e-40ee-9ec9-2525f9b71931" server_name="north">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9ec32fc1-0ed1-4d1d-b9bc-4a5fbdb3fba8" name="Default" comment="" />
@@ -417,14 +418,19 @@
       <option name="project" value="LOCAL" />
       <updated>1435662898602</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="contact">
+      <created>1435669299279</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1435669299279</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -432,20 +438,21 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946378" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26091763" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2642344" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3390558" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -474,11 +481,95 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="2520">
+          <caret line="13" column="54" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markup/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2126" max-vertical-offset="4968">
+          <caret line="135" column="25" selection-start-line="129" selection-start-column="19" selection-end-line="135" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/single-projects.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="1242">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/templates/archive-news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2873" max-vertical-offset="3474">
+          <caret line="171" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="187" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4016" max-vertical-offset="6678">
+          <caret line="232" column="25" selection-start-line="232" selection-start-column="25" selection-end-line="232" selection-end-column="25" />
+          <folding>
+            <marker date="1435666440456" expanded="true" signature="4352:4364" placeholder="..." />
+            <marker date="1435666440456" expanded="true" signature="4687:4699" placeholder="..." />
+            <marker date="1435666440456" expanded="true" signature="5023:5035" placeholder="..." />
+            <marker date="1435666440456" expanded="true" signature="6064:6088" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1152">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="9234" max-vertical-offset="17766">
+          <caret line="522" column="10" selection-start-line="522" selection-start-column="10" selection-end-line="522" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markup/catalogue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1836" max-vertical-offset="5220">
+          <caret line="106" column="85" selection-start-line="106" selection-start-column="85" selection-end-line="106" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/templates/contact-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="97" max-vertical-offset="1386">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/site/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1314">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -486,7 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1332">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -494,7 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="1332">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -502,7 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="1332">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -510,7 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="1314">
           <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -526,7 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.333333" vertical-offset="0" max-vertical-offset="4374">
           <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -534,7 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-19.333334" vertical-offset="0" max-vertical-offset="918">
           <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -542,7 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="1044">
           <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -550,7 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.0" vertical-offset="2916" max-vertical-offset="5112">
           <caret line="159" column="45" selection-start-line="159" selection-start-column="45" selection-end-line="159" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -558,7 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-17.333334" vertical-offset="594" max-vertical-offset="1260">
           <caret line="59" column="26" selection-start-line="16" selection-start-column="21" selection-end-line="59" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -566,29 +648,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.18398637" vertical-offset="1728" max-vertical-offset="3942">
           <caret line="102" column="45" selection-start-line="102" selection-start-column="45" selection-end-line="102" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/markup/catalogue.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6666667" vertical-offset="1836" max-vertical-offset="5220">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1836" max-vertical-offset="5220">
           <caret line="106" column="85" selection-start-line="106" selection-start-column="85" selection-end-line="106" selection-end-column="85" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/front-page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.666667" vertical-offset="0" max-vertical-offset="2520">
-          <caret line="13" column="54" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.5925927" vertical-offset="2873" max-vertical-offset="3474">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2873" max-vertical-offset="3474">
           <caret line="171" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="187" selection-end-column="21" />
           <folding />
         </state>
@@ -596,22 +669,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/templates/contact-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.7407408" vertical-offset="97" max-vertical-offset="1386">
+        <state vertical-scroll-proportion="0.0" vertical-offset="97" max-vertical-offset="1386">
           <caret line="11" column="42" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="42" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.9259257" vertical-offset="4016" max-vertical-offset="6678">
-          <caret line="232" column="25" selection-start-line="232" selection-start-column="25" selection-end-line="232" selection-end-column="25" />
-          <folding>
-            <marker date="1435666440456" expanded="true" signature="4352:4364" placeholder="..." />
-            <marker date="1435666440456" expanded="true" signature="4687:4699" placeholder="..." />
-            <marker date="1435666440456" expanded="true" signature="5023:5035" placeholder="..." />
-            <marker date="1435666440456" expanded="true" signature="6064:6088" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -619,6 +679,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="9234" max-vertical-offset="17766">
           <caret line="522" column="10" selection-start-line="522" selection-start-column="10" selection-end-line="522" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markup/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2126" max-vertical-offset="4968">
+          <caret line="135" column="25" selection-start-line="129" selection-start-column="19" selection-end-line="135" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -631,26 +699,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/markup/about.html">
+    <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/front-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.259259" vertical-offset="2126" max-vertical-offset="4968">
-          <caret line="135" column="25" selection-start-line="129" selection-start-column="19" selection-end-line="135" selection-end-column="25" />
+        <state vertical-scroll-proportion="26.0" vertical-offset="936" max-vertical-offset="2520">
+          <caret line="13" column="54" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/single-projects.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="1242">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state vertical-scroll-proportion="-3.3333333" vertical-offset="216" max-vertical-offset="1242">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-92.59259" vertical-offset="1802" max-vertical-offset="6678">
+          <caret line="239" column="48" selection-start-line="239" selection-start-column="48" selection-end-line="239" selection-end-column="48" />
+          <folding>
+            <marker date="1435666440456" expanded="true" signature="4352:4364" placeholder="..." />
+            <marker date="1435666440456" expanded="true" signature="4687:4699" placeholder="..." />
+            <marker date="1435666440456" expanded="true" signature="5023:5035" placeholder="..." />
+            <marker date="1435666440456" expanded="true" signature="6064:6088" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/wp-content/themes/holodkom/sidebar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5093697" vertical-offset="565" max-vertical-offset="1152">
-          <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+        <state vertical-scroll-proportion="-0.34843206" vertical-offset="596" max-vertical-offset="1332">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
           <folding />
         </state>
       </provider>

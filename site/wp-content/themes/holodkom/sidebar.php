@@ -2,12 +2,22 @@
 	<div class="lb_item">
 		<div class="h2">Каталог</div>
 		<ul>
-			<li><span class="cat_img cat_item1"></span><a href="">Холодильное оборудование</a></li>
-			<li><span class="cat_img cat_item2"></span><a href="">Рефрижераторные контейнеры</a></li>
-			<li><span class="cat_img cat_item3"></span><a href="">Технологии хладоснабжения</a></li>
-			<li><span class="cat_img cat_item4"></span><a href="">Льдогенераторы</a></li>
-			<li><span class="cat_img cat_item5"></span><a href="">Холодильные склады</a></li>
-			<li><span class="cat_img cat_item6"></span><a href="">Сервисный центр</a></li>
+			<?php
+				$args       = array(
+				'parent'     => '',
+				'hide_empty' => 0,
+				'exclude'    => '',
+				'number'     => '0',
+				'taxonomy'   => 'type',
+				'pad_counts' => true
+				);
+				$categories = get_categories( $args );
+				foreach($categories as $category) {
+			?>
+					<li><span class="cat_img cat_item1"></span><a href="<?php echo get_term_link( (int) $category->term_id, 'type' );?>"><?php echo $category->name;?></a></li>
+			<?php
+				}
+			?>
 		</ul>
 	</div>
 	<div class="lb_item ">
