@@ -50,7 +50,7 @@
 		$labels_project = array(
 			'name'              => 'Поставщики',
 			'singular_name'     => 'Поставщик',
-			'add_new'           => 'Новый паставщик',
+			'add_new'           => 'Новый поставщик',
 			'add_new_item'      => 'Добавить нового поставщика',
 			'edit_item'         => 'Редактировать поставщика',
 			'new_item'          => 'Новый поставщик',
@@ -99,8 +99,19 @@
 //регистрация виджетов
 	register_sidebar(
 		array(
-			'id'            => 'footer', // уникальный id
+			'id'            => 'info', // уникальный id
 			'name'          => 'Информация в подвале', // название сайдбара
+			'description'   => '', // описание
+			'before_widget' => '', // по умолчанию виджеты выводятся <li>-списком
+			'after_widget'  => '',
+			'before_title'  => '',
+			'after_title'   => ''
+		)
+	);
+	register_sidebar(
+		array(
+			'id'            => 'adress', // уникальный id
+			'name'          => 'Адрес в подвале', // название сайдбара
 			'description'   => '', // описание
 			'before_widget' => '', // по умолчанию виджеты выводятся <li>-списком
 			'after_widget'  => '',
@@ -123,7 +134,8 @@
 	function register_theme_menus() {
 		register_nav_menus( array(
 			'header-main' => 'main',
-			'aside'       => 'aside'
+			'aside'       => 'aside',
+			'footer'       => 'footer'
 		) );
 	}
 
@@ -194,8 +206,8 @@
 		$show_home_link = 1; // 1 - показывать ссылку "Главная", 0 - не показывать
 		$show_title = 1; // 1 - показывать подсказку (title) для ссылок, 0 - не показывать
 		$delimiter = ''; // разделить между "крошками"
-		$before = '<li class="active">'; // тег перед текущей "крошкой"
-		$after = '</li>'; // тег после текущей "крошки"
+		$before = '<li><p>'; // тег перед текущей "крошкой"
+		$after = '</p></li>'; // тег после текущей "крошки"
 		/* === КОНЕЦ ОПЦИЙ === */
 
 		global $post;
@@ -209,13 +221,13 @@
 
 		if (is_home() || is_front_page()) {
 
-			if ($show_on_home == 1) echo '<ol class="breadcrumb"><li><a href="' . $home_link . '">' . $text['home'] . '</a></li></ol>';
+			if ($show_on_home == 1) echo '<ul class="breadcrumb"><li><a href="' . $home_link . '">' . $text['home'] . '</a><span>/</span></li></ul>';
 
 		} else {
 
-			echo '<ol class="breadcrumb" xmlns:v="http://rdf.data-vocabulary.org/#">';
+			echo '<ul class="breadcrumb" xmlns:v="http://rdf.data-vocabulary.org/#">';
 			if ($show_home_link == 1) {
-				echo '<li><a href="' . $home_link . '" rel="v:url" property="v:title">' . $text['home'] . '</a></li>';
+				echo '<li><a href="' . $home_link . '" rel="v:url" property="v:title">' . $text['home'] . '</a><span>/</span></li>';
 				if ($frontpage_id == 0 || $parent_id != $frontpage_id) echo $delimiter;
 			}
 
@@ -325,7 +337,7 @@
 				if ( is_category() || is_day() || is_month() || is_year() || is_search() || is_tag() || is_author() ) echo ')';
 			}
 
-			echo '</ol><!-- .breadcrumbs -->';
+			echo '</ul><!-- .breadcrumbs -->';
 
 		}
 	} // end breadcrumbs()
