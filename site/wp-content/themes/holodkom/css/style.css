@@ -895,7 +895,7 @@ footer {
 	color: #f02d30;
 }
 
-.modal input[type=text] {
+.modal input[type=text],input[type=email],input[type=tel]  {
 	width: 663px;
 	height: 42px;
 	background-color: #f7faff;

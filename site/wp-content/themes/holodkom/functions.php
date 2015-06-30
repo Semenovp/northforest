@@ -91,10 +91,33 @@
 		);
 		register_post_type('projects',$args);
 	}
+	//реистрация типа "Проекты"
+	add_action('init', 'register_catalog');
+	function register_catalog() {
+		$labels_project = array(
+			'name' => 'Каталог',
+			'singular_name' =>'Каталог',
+			'add_new' => 'Новый элемент',
+			'add_new_item' => 'Добавить новый элемент',
+			'edit_item' => 'Редактировать элемент',
+			'new_item' => 'Новый элемент',
+			'view_item' => 'Просмотр элемента',
+			'search_items' => 'Происк элементов',
+			'not_found' => 'Проектов не найдено',
+			'parent_item_colon' => 'Родителький проект'
+		);
+		$args = array(
+			'labels'=> $labels_project,
+			'public' => true,
+			'has_archive' => true,
+			'supports' => array('title','editor','thumbnail','excerpt', 'custom-fields')
+		);
+		register_post_type('catalog',$args);
+	}
 //регистрация рубрик проектов
-	add_action('init', 'project_taxonomies');
-	function project_taxonomies() {
-		register_taxonomy('type','projects', array('hierarchical' => true, 'label' => "Категории проектов", 'query_var' => true, 'rewrite' => true));
+	add_action('init', 'catalog_taxonomies');
+	function catalog_taxonomies() {
+		register_taxonomy('type','catalog', array('hierarchical' => true, 'label' => "Категории каталога", 'query_var' => true, 'rewrite' => true));
 	}
 //регистрация виджетов
 	register_sidebar(
